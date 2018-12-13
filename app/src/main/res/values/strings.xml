@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">قصص الانبياء</string>
+    <string name="story">قصص الانبياء للأطفال</string>
+    <string name="share">share</string>
+    <string name="email">email</string>
+    <string name="exit">exit</string>
+    <string name="application">applicalion</string>
+    <string name="divider">divider</string>
+    <string name="pop">pop</string>
+    <string name="star">star</string>
+    <string name="cancel">cancle</string>
+    <string-array name="index">
+        <item>  أدم (عليه السلام)</item>
+        <item> نوح (عليه السلام) </item>
+        <item>هود (عليه السلام) </item>
+        <item> صالح (عليه السلام)</item>
+        <item>ابراهيم (عليه السلام) </item>
+        <item>اسماعيل (عليه السلام) </item>
+        <item>يوسف (عليه السلام) </item>
+        <item> موسي (عليه السلام)</item>
+        <item> داود (عليه السلام)</item>
+        <item> عيسى (عليه السلام)</item>
+
+
+
+    </string-array>
+</resources>
